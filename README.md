@@ -19,3 +19,17 @@ This project is a Student Management System built using SQL. It manages students
 
 🚀 Learning
 Learned SQL and database design.
+
+📸 Screenshots
+
+Table
+![Table](table.jpeg)
+
+
+Average Marks Query
+
+
+Grade Query
+
+
+Highest Marks Query
